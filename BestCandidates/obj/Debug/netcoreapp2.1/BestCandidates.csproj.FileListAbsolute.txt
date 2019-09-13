@@ -1,0 +1,15 @@
+C:\Zhuo\Interview\JobAdd\BestCandidates\BestCandidates\obj\Debug\netcoreapp2.1\BestCandidates.csprojAssemblyReference.cache
+C:\Zhuo\Interview\JobAdd\BestCandidates\BestCandidates\obj\Debug\netcoreapp2.1\BestCandidates.csproj.CoreCompileInputs.cache
+C:\Zhuo\Interview\JobAdd\BestCandidates\BestCandidates\obj\Debug\netcoreapp2.1\BestCandidates.RazorAssemblyInfo.cache
+C:\Zhuo\Interview\JobAdd\BestCandidates\BestCandidates\obj\Debug\netcoreapp2.1\BestCandidates.RazorAssemblyInfo.cs
+C:\Zhuo\Interview\JobAdd\BestCandidates\BestCandidates\obj\Debug\netcoreapp2.1\BestCandidates.AssemblyInfoInputs.cache
+C:\Zhuo\Interview\JobAdd\BestCandidates\BestCandidates\obj\Debug\netcoreapp2.1\BestCandidates.AssemblyInfo.cs
+C:\Zhuo\Interview\JobAdd\BestCandidates\BestCandidates\bin\Debug\netcoreapp2.1\BestCandidates.deps.json
+C:\Zhuo\Interview\JobAdd\BestCandidates\BestCandidates\bin\Debug\netcoreapp2.1\BestCandidates.runtimeconfig.json
+C:\Zhuo\Interview\JobAdd\BestCandidates\BestCandidates\bin\Debug\netcoreapp2.1\BestCandidates.runtimeconfig.dev.json
+C:\Zhuo\Interview\JobAdd\BestCandidates\BestCandidates\bin\Debug\netcoreapp2.1\BestCandidates.dll
+C:\Zhuo\Interview\JobAdd\BestCandidates\BestCandidates\bin\Debug\netcoreapp2.1\BestCandidates.pdb
+C:\Zhuo\Interview\JobAdd\BestCandidates\BestCandidates\obj\Debug\netcoreapp2.1\BestCandidates.RazorTargetAssemblyInfo.cache
+C:\Zhuo\Interview\JobAdd\BestCandidates\BestCandidates\obj\Debug\netcoreapp2.1\BestCandidates.dll
+C:\Zhuo\Interview\JobAdd\BestCandidates\BestCandidates\obj\Debug\netcoreapp2.1\BestCandidates.pdb
+C:\Zhuo\Interview\JobAdd\BestCandidates\BestCandidates\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

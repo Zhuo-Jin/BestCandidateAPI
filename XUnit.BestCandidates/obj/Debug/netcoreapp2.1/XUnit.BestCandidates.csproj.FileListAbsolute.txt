@@ -1,0 +1,17 @@
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\bin\Debug\netcoreapp2.1\XUnit.BestCandidates.deps.json
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\bin\Debug\netcoreapp2.1\XUnit.BestCandidates.runtimeconfig.json
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\bin\Debug\netcoreapp2.1\XUnit.BestCandidates.runtimeconfig.dev.json
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\bin\Debug\netcoreapp2.1\XUnit.BestCandidates.dll
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\bin\Debug\netcoreapp2.1\XUnit.BestCandidates.pdb
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\bin\Debug\netcoreapp2.1\BestCandidates.dll
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\bin\Debug\netcoreapp2.1\BestCandidates.pdb
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\obj\Debug\netcoreapp2.1\XUnit.BestCandidates.csprojAssemblyReference.cache
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\obj\Debug\netcoreapp2.1\XUnit.BestCandidates.csproj.CoreCompileInputs.cache
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\obj\Debug\netcoreapp2.1\XUnit.BestCandidates.AssemblyInfoInputs.cache
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\obj\Debug\netcoreapp2.1\XUnit.BestCandidates.AssemblyInfo.cs
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\obj\Debug\netcoreapp2.1\XUnit.BestCandidates.csproj.CopyComplete
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\obj\Debug\netcoreapp2.1\XUnit.BestCandidates.dll
+C:\Zhuo\Interview\JobAdd\BestCandidates\XUnit.BestCandidates\obj\Debug\netcoreapp2.1\XUnit.BestCandidates.pdb
